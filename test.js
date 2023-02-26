@@ -1,4 +1,9 @@
 const test = "test";
-alert("Привіт!")
+alert("Привіт!")blablabla
 
+
+AAA
+BBB
+CCC
 blablabla
+
